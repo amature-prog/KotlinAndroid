@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KotlinAndroid</string>
+    <string name="recipe_name">Recipe Name:</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="recipes">Recipes</string>
+    <string name="editName">Recipe Name</string>
+    <string name="ham">Ham</string>
+    <string name="turkey">Turkey</string>
+    <string name="cheddar">Cheddar</string>
+    <string name="american">American</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="onions">Onions</string>
+    <string name="ranch">Ranch</string>
+    <string name="save">Save</string>
+    <string name="cancel_and_close">Cancel and Close</string>
+
+</resources>
